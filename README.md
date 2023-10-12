@@ -1,10 +1,8 @@
 # rust-keycert
-A Self-Signed Certificate Generator in Rust
 
 Self-Signed Certificate Generator in Rust
 
-Rust CI Badge
-License Badge
+![image](https://github.com/luishsr/rust-keycert/assets/80909424/d4cf6bf6-3bd9-4c8a-80a4-d9e784903d59)
 
 This Rust-based utility provides an easy and efficient way to generate self-signed ECDSA certificates for local development and testing purposes. Wrapped around the power of OpenSSL, this tool ensures the creation of secure certificates, aptly designed for local HTTPS servers, development, and testing environments.
 Features 🌟
